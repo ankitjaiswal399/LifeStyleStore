@@ -1,0 +1,2 @@
+# LifeStyleStore
+An e-commerce website which have products that a person can add to their cart and process those products. It has a grid presentation of all the projects and an individual section for a particular user. This project uses javascript for validation purpose and MySql Database. This project is not for heavy traffic. Few updates are required to add a payment gateway and also some bug fixes. I am working on that. 
